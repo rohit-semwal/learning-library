@@ -1,0 +1,38 @@
+{
+    "tutorials": [
+        {         
+            "title": "JSON Lab 1: Intro and Setup",
+            "description": "Json Environment Setup",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "../setup.md"
+        },
+        {         
+            "title": "JSON Lab 2: Load Json Data",
+            "description": "",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "../load_json.md"
+        },
+        {         
+            "title": "JSON Lab 3: Insert and Update Json Data",
+            "description": "",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "../insert_json.md"
+        },
+        {         
+            "title": "JSON Lab 4: Usage of Json Functions",
+            "description": "",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "03/10/2020",
+            "contentid": "12nnnn",
+            "filename": "..json_fun.md"
+        }
+
+
+    ]
+}
